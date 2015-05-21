@@ -1,5 +1,5 @@
 # gitpages2
-Second experiment with github pages
+Second experiment with github pages - probably last edit on Thurs 21st
 
 # RESISTORS WTF!!!  
 ## By An Author  
@@ -24,4 +24,6 @@ Second experiment with github pages
 |Orange|3         |
 |Yellow|4 |
 |Green|5|
+|Blue|6|
+
 
