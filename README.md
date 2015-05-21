@@ -6,7 +6,7 @@ Second experiment with github pages
 ### A converted academy resource
 
 [Resistors](http://en.wikipedia.org/wiki/Resistor) are so exciting I can barely contain myself.
-![Resistors](http://upload.wikimedia.org/wikipedia/commons/e/e6/Resistor.jpg)
+![Resistors](http://upload.wikimedia.org/wikipedia/commons/e/e6/Resistor.jpg "A resistor")
 
 > WOW Resistors are great
 
