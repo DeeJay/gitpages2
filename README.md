@@ -11,7 +11,7 @@ Second experiment with github pages
 > WOW Resistors are great
 
 1. They resist.
-2. They have colours bands.
+2. They have coloured bands.
 3. They are small
 
 **Here are some codes**
