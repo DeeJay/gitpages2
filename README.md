@@ -1,5 +1,5 @@
 # gitpages2
-Second experiment with github pages - draft changes for Fri 22 May
+
 
 # RESISTORS FTW!!!  
 ## By An Author   - originally at Code2Learn
@@ -26,4 +26,4 @@ Second experiment with github pages - draft changes for Fri 22 May
 |Green|5|
 |Blue|6|
 
-
+Second experiment with github pages - changes on windows pc Fri 22 May 22:24
