@@ -2,7 +2,7 @@
 Second experiment with github pages - draft changes for Fri 22 May
 
 # RESISTORS FTW!!!  
-## By An Author  
+## By An Author   - originally at Code2Learn
 ### A converted academy resource
 
 [Resistors](http://en.wikipedia.org/wiki/Resistor) are so exciting I can barely contain myself.
