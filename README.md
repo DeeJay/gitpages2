@@ -1,8 +1,8 @@
 # gitpages2
-Second experiment with github pages - probably last edit on Thurs 21st
+Second experiment with github pages - draft changes for Fri 22 May
 
-# RESISTORS WTF!!!  
-## By An Author  
+# RESISTORS FTW!!!  
+## By An Author   - originally at Code2Learn
 ### A converted academy resource
 
 [Resistors](http://en.wikipedia.org/wiki/Resistor) are so exciting I can barely contain myself.
