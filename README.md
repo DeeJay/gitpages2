@@ -1,7 +1,7 @@
 # gitpages2
-Second experiment with github pages - probably last edit on Thurs 21st
+Second experiment with github pages - draft changes for Fri 22 May
 
-# RESISTORS WTF!!!  
+# RESISTORS FTW!!!  
 ## By An Author  
 ### A converted academy resource
 
