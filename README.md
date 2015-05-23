@@ -1,6 +1,3 @@
-# gitpages2
-
-
 # RESISTORS FTW!!!  
 ## By An Author   - originally at Code2Learn
 ### A converted academy resource
@@ -26,4 +23,4 @@
 |Green|5|
 |Blue|6|
 
-Second experiment with github pages - changes on windows pc Fri 22 May 22:24
+Second experiment with github pages - changes via stacked it on android 23 may 9.16
