@@ -1,3 +1,4 @@
+[TOC]
 # RESISTORS FTW!!!  
 ## By An Author   - originally at Code2Learn
 ### A converted academy resource
@@ -24,3 +25,12 @@
 |Blue|6|
 
 Second experiment with github pages - changes via Stackedit on android 23 may 9.52
+
+# CAPACITORS
+## Beads
+## Electrolytic
+
+# DIODES
+## Rectifiers
+## Zeners
+## LEDs
